@@ -10,7 +10,7 @@ public class AppDbContext : DbContext
         DbContextOptionsBuilder optionsBuilder)
     {
         optionsBuilder.UseSqlServer(
-            @"Server=localhost;Database=AemenersolDB;Trusted_Connection=True;TrustServerCertificate=True;user=ulyasarah\Programmer;password=programmer;");
+            @"Server=(localdb)\MSSQLLocalDB;Database=AemenersolDB;Trusted_Connection=True;TrustServerCertificate=True;user=ulyasarah\Programmer;password=programmer;");
     }
 }
 
