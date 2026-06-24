@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fk+i69MuOG8=",
+  "dgSpecHash": "6WOH+Fs8A68=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Programmer\\Documents\\GitHub\\aemenersol\\AemEnersol.csproj",
+  "projectFilePath": "C:\\Users\\Programmer\\Documents\\AemEnersol\\AemEnersol.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Programmer\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Programmer\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -74,9 +74,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q",
-      "projectPath": "C:\\Users\\Programmer\\Documents\\GitHub\\aemenersol\\AemEnersol.csproj",
+      "projectPath": "C:\\Users\\Programmer\\Documents\\AemEnersol\\AemEnersol.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Programmer\\Documents\\GitHub\\aemenersol\\AemEnersol.csproj",
+      "filePath": "C:\\Users\\Programmer\\Documents\\AemEnersol\\AemEnersol.csproj",
       "libraryId": "SQLitePCLRaw.lib.e_sqlite3",
       "targetGraphs": [
         "net10.0"

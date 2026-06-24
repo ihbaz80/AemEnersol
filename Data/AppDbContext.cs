@@ -13,3 +13,4 @@ public class AppDbContext : DbContext
             @"Server=localhost;Database=AemenersolDB;Trusted_Connection=True;TrustServerCertificate=True;user=ulyasarah\Programmer;password=programmer;");
     }
 }
+

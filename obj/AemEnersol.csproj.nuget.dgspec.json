@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Programmer\\Documents\\GitHub\\aemenersol\\AemEnersol.csproj": {}
+    "C:\\Users\\Programmer\\Documents\\AemEnersol\\AemEnersol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Programmer\\Documents\\GitHub\\aemenersol\\AemEnersol.csproj": {
+    "C:\\Users\\Programmer\\Documents\\AemEnersol\\AemEnersol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Programmer\\Documents\\GitHub\\aemenersol\\AemEnersol.csproj",
+        "projectUniqueName": "C:\\Users\\Programmer\\Documents\\AemEnersol\\AemEnersol.csproj",
         "projectName": "AemEnersol",
-        "projectPath": "C:\\Users\\Programmer\\Documents\\GitHub\\aemenersol\\AemEnersol.csproj",
+        "projectPath": "C:\\Users\\Programmer\\Documents\\AemEnersol\\AemEnersol.csproj",
         "packagesPath": "C:\\Users\\Programmer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Programmer\\Documents\\GitHub\\aemenersol\\obj\\",
+        "outputPath": "C:\\Users\\Programmer\\Documents\\AemEnersol\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Programmer\\AppData\\Roaming\\NuGet\\NuGet.Config",
